@@ -1,0 +1,51 @@
+/* src/styles.css */
+.App {
+  text-align: center;
+}
+
+.room {
+  padding: 20px;
+}
+
+.user-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.user {
+  margin: 10px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.join-room input {
+  display: block;
+  margin: 10px auto;
+}
+
+.join-channel {
+  margin-top: 10px;
+}
+
+.control {
+  margin-top: 20px;
+}
+
+.left-control .btn {
+  margin-right: 10px;
+}
+
+.btn-phone {
+  margin-top: 20px;
+}
+
+.btn-phone-active {
+  background-color: red;
+}
+
+.i-microphone.off,
+.i-camera.off {
+  opacity: 0.5;
+}

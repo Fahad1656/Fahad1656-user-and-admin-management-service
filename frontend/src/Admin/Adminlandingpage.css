@@ -1,0 +1,139 @@
+/* #admin-landing-page {
+  width: 80%;
+  margin: 20px auto;
+  font-family: "Poppins", sans-serif;
+}
+
+#admin-landing-page h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.action-button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.action-button:hover {
+  background-color: deepskyblue;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+li button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+li button:hover {
+  background-color: deepskyblue;
+} */
+#admin-landing-page {
+  width: 80%;
+  margin: 20px auto;
+  font-family: "Poppins", sans-serif;
+}
+
+#admin-landing-page h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.action-button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.action-button:hover {
+  background-color: deepskyblue;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+li button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+li button:hover {
+  background-color: deepskyblue;
+}
+
+#submit-button {
+  display: block;
+  width: 50%; /* Wider padding */
+  padding: 12px;
+  background-color: #28a745; /* Different color */
+  border: 2px solid #1e7e34; /* Smaller border */
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px auto;
+  transition: background-color 0.3s ease;
+}
+
+#submit-button:hover {
+  background-color: #218838;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+  text-align: center;
+}

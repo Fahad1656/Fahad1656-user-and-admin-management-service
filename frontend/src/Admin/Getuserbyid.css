@@ -1,0 +1,27 @@
+.user-data-page {
+  width: 80%;
+  margin: 20px auto;
+  font-family: "Poppins", sans-serif;
+}
+
+.user-data-page h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.user-details {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.user-details div {
+  margin-bottom: 10px;
+}
+
+.user-details strong {
+  font-weight: bold;
+}
