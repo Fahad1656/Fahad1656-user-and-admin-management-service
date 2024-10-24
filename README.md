@@ -50,7 +50,7 @@
 
 4. **Access the Application**:  
    - Frontend is usually accessible at `http://localhost:3000` (or the port specified in the Vite config).
-   - Backend is typically accessible at `http://localhost:3001` (or the port specified in the NestJS config).
+   - Backend is typically accessible at `http://localhost:8000` (or the port specified in the NestJS config).
 
 ## License
 This project is licensed under the MIT License.
